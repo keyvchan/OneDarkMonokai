@@ -1,12 +1,26 @@
 <idea-plugin>
     <id>design.verybeautiful.onedarkmonokai</id>
     <name>OneDarkMonokai</name>
-    <version>1.0</version>
-    <vendor email="keyvchan@gmail.com" url="https://github.com/keyvchan">keyvchan</vendor>
+    <version>0.1</version>
+    <vendor email="keyvchan@gmail.com">keyvchan</vendor>
 
     <description>
-        This theme is combination of onedark theme and monokai. Inspire by my favorite theme for
-        vscode: https://github.com/AshPowell/monokai-one-dark-vivid.
+        <![CDATA[
+
+        This theme is combination of onedark theme and monokai. Inspire by <a href="https://github.com/keyvchan/OneDarkMonokai">my favorite theme for vscode<a>
+        <br/><br/>
+
+        To install:
+        <ul>
+            <li>Go to <i>Settings (Preferences) | Plugins<i>, find the theme plugin and install it</li>
+            <li>Restart IDE</li>
+            <li>Go to <i>Settings (Preferences) | Appearance & Behavior | Appearance</i> and see the <i>Theme</i> dropdown</li>
+        </ul>
+        <br/>
+
+        <a href="https://github.com/keyvchan/OneDarkMonokai>Source code</a>
+
+    ]]>
     </description>
 
     <change-notes>
@@ -20,9 +34,8 @@
 
     <!-- please see http://www.jetbrains.org/intellij/sdk/docs/basics/getting_started/plugin_compatibility.html
          on how to target different products -->
-    <!-- uncomment to enable plugin in all products
+    <!-- uncomment to enable plugin in all products -->
     <depends>com.intellij.modules.lang</depends>
-    -->
 
     <extensions defaultExtensionNs="com.intellij">
         <!-- Add your extensions here -->
