@@ -1,13 +1,13 @@
 <idea-plugin>
     <id>design.verybeautiful.onedarkmonokai</id>
     <name>OneDarkMonokai</name>
-    <version>0.1.1</version>
+    <version>0.1.2</version>
     <vendor email="keyvchan@gmail.com">keyvchan</vendor>
 
     <description>
         <![CDATA[
 
-        This theme is combination of onedark theme and monokai. Inspire by <a href="https://github.com/keyvchan/OneDarkMonokai">my favorite theme for vscode<a>
+        This theme is combination of onedark theme and monokai. Inspire by <a href="https://github.com/AshPowell/monokai-one-dark-vivid">my favorite theme for vscode</a>
         <br/><br/>
 
         To install:
@@ -22,7 +22,13 @@
     </description>
 
     <change-notes>
+        v0.1.2:
+        Fix typo.
+
         v0.1.1:
+        Fix typo.
+
+        v0.1.0:
         First version, still need improve. I will keep going.
 
     </change-notes>
