@@ -1,7 +1,7 @@
 <idea-plugin>
     <id>design.verybeautiful.onedarkmonokai</id>
     <name>OneDarkMonokai</name>
-    <version>0.1</version>
+    <version>0.1.1</version>
     <vendor email="keyvchan@gmail.com">keyvchan</vendor>
 
     <description>
@@ -22,7 +22,7 @@
     </description>
 
     <change-notes>
-        v0.1:
+        v0.1.1:
         First version, still need improve. I will keep going.
 
     </change-notes>
