@@ -1,0 +1,14 @@
+{
+  "name": "OneDarkMonokai",
+  "dark": true,
+  "author": "keyvchan",
+  "editorScheme": "/Monokai.xml",
+  "ui": {
+    "EditorTabs.selectedBackground": "#131C28",
+    "*": {
+      "background": "#131C28"
+    },
+    "TitlePane.background": "#192433",
+    "TitledBorder.titleColor": "#192433"
+  }
+}

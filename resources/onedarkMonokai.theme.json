@@ -1,0 +1,23 @@
+{
+  "name": "OneDarkMonokai",
+  "dark": true,
+  "author": "keyvchan",
+  "editorScheme": "/Monokai.xml",
+  "ui": {
+    "EditorTabs.selectedBackground": "#131C28",
+    "*": {
+      "background": "#131C28",
+      "foreground": "#FFFFFF",
+      "selectionBackground": "#252E3B",
+      "selectionForeground": "#EAEAEA",
+      "selectionInactiveBackground": "#252E3B",
+      "disabledForeground": "#a3a3a3",
+      "disabledBackground": "#3f3571",
+      "inactiveBackground": "#131C28",
+      "errorForeground": "#ebf1f2",
+      "disabledText": "#adadad"
+    },
+    "TitlePane.background": "#192433",
+    "TitledBorder.titleColor": "#192433"
+  }
+}
