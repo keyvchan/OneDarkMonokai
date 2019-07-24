@@ -5,11 +5,13 @@
     <vendor email="keyvchan@gmail.com" url="https://github.com/keyvchan">keyvchan</vendor>
 
     <description>
-        Test
+        This theme is combination of onedark theme and monokai. Inspire by [my favorite theme for
+        vscode](https://github.com/AshPowell/monokai-one-dark-vivid)
     </description>
 
     <change-notes>
-        No change
+        *v0.1: *
+        First version, still need improve.
     </change-notes>
 
     <!-- please see http://www.jetbrains.org/intellij/sdk/docs/basics/getting_started/build_number_ranges.html for description -->
