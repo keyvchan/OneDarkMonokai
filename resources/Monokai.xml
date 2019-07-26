@@ -1,4 +1,4 @@
-<scheme name="Monokai copy" version="142" parent_scheme="Darcula">
+<scheme name="Monokai Adapted" version="142" parent_scheme="Darcula">
     <metaInfo>
         <property name="created">2019-07-24T14:51:07</property>
         <property name="ide">Goland</property>
@@ -419,6 +419,10 @@
                 <option name="FOREGROUND" value="75715e"/>
             </value>
         </option>
+        <option name="DEFAULT_BRACES" baseAttributes=""/>
+        <option name="DEFAULT_BRACKETS" baseAttributes=""/>
+        <option name="DEFAULT_COMMA" baseAttributes=""/>
+        <option name="DEFAULT_CONSTANT" baseAttributes="DEFAULT_IDENTIFIER"/>
         <option name="DEFAULT_CONSTANT" baseAttributes="DEFAULT_IDENTIFIER"/>
         <option name="DEFAULT_DOC_COMMENT">
             <value>
@@ -654,6 +658,61 @@
                 <option name="FONT_TYPE" value="2"/>
             </value>
         </option>
+        <option name="GO_BLOCK_COMMENT">
+            <value>
+                <option name="FOREGROUND" value="75715e"/>
+            </value>
+        </option>
+        <option name="GO_BUILTIN_CONSTANT" baseAttributes="DEFAULT_CONSTANT"/>
+        <option name="GO_BUILTIN_FUNCTION_CALL">
+            <value>
+                <option name="FOREGROUND" value="66d9ef"/>
+            </value>
+        </option>
+        <option name="GO_BUILTIN_TYPE_REFERENCE" baseAttributes="DEFAULT_CLASS_REFERENCE"/>
+        <option name="GO_BUILTIN_VARIABLE">
+            <value>
+                <option name="FOREGROUND" value="f8f8f2"/>
+                <option name="FONT_TYPE" value="2"/>
+            </value>
+        </option>
+        <option name="GO_EXPORTED_FUNCTION">
+            <value>
+                <option name="FOREGROUND" value="a6e22e"/>
+            </value>
+        </option>
+        <option name="GO_EXPORTED_FUNCTION_CALL">
+            <value>
+                <option name="FOREGROUND" value="66d9ef"/>
+            </value>
+        </option>
+        <option name="GO_KEYWORD">
+            <value>
+                <option name="FOREGROUND" value="f92672"/>
+            </value>
+        </option>
+        <option name="GO_LINE_COMMENT">
+            <value>
+                <option name="FOREGROUND" value="75715e"/>
+            </value>
+        </option>
+        <option name="GO_LOCAL_FUNCTION">
+            <value>
+                <option name="FOREGROUND" value="a6e22e"/>
+            </value>
+        </option>
+        <option name="GO_LOCAL_FUNCTION_CALL">
+            <value>
+                <option name="FOREGROUND" value="66d9ef"/>
+            </value>
+        </option>
+        <option name="GO_METHOD_RECEIVER">
+            <value>
+                <option name="FOREGROUND" value="f8f8f2"/>
+            </value>
+        </option>
+        <option name="GO_PACKAGE" baseAttributes="DEFAULT_IDENTIFIER"/>
+        <option name="GO_TYPE_REFERENCE" baseAttributes="DEFAULT_CLASS_REFERENCE"/>
         <option name="GQL_ID">
             <value>
                 <option name="FOREGROUND" value="ae81ff"/>
