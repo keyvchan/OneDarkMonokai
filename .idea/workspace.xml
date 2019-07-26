@@ -1,11 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="f8ed6764-fcf4-4cb4-8db8-bbb8d3399b47" name="Default Changelist" comment="">
+    <list default="true" id="f8ed6764-fcf4-4cb4-8db8-bbb8d3399b47" name="Default Changelist" comment="Change color for popup background and documentation background. &#10;Also change the">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/OneDarkMonokai/OneDarkMonokai-v0-1-3.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/OneDarkMonokai/OneDarkMonokai-v0-1-4.jar" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/resources/META-INF/plugin.xml" beforeDir="false" afterPath="$PROJECT_DIR$/resources/META-INF/plugin.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/resources/Monokai.xml" beforeDir="false" afterPath="$PROJECT_DIR$/resources/Monokai.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/onedarkMonokai.theme.json" beforeDir="false" afterPath="$PROJECT_DIR$/resources/onedarkMonokai.theme.json" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -18,6 +19,9 @@
   </component>
   <component name="DefaultGradleProjectSettings">
     <option name="isMigrated" value="true" />
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="OneDarkMonokai" />
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -51,7 +55,7 @@
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.2" />
-    <property name="settings.editor.selected.configurable" value="reference.settingsdialog.IDE.editor.colors" />
+    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
@@ -149,6 +153,19 @@
       <workItem from="1564105742652" duration="1273000" />
       <workItem from="1564107208053" duration="16000" />
       <workItem from="1564107235394" duration="152000" />
+      <workItem from="1564107747176" duration="32000" />
+      <workItem from="1564114837436" duration="17000" />
+      <workItem from="1564115114500" duration="2132000" />
+      <workItem from="1564118837695" duration="160000" />
+      <workItem from="1564119009311" duration="2598000" />
+      <workItem from="1564121651692" duration="185000" />
+      <workItem from="1564121847021" duration="18000" />
+      <workItem from="1564121867807" duration="11000" />
+      <workItem from="1564121882761" duration="10000" />
+      <workItem from="1564121894772" duration="8000" />
+      <workItem from="1564121923590" duration="12000" />
+      <workItem from="1564121951139" duration="16000" />
+      <workItem from="1564121976924" duration="485000" />
     </task>
     <servers />
   </component>
@@ -167,91 +184,5 @@
         </entry>
       </map>
     </option>
-  </component>
-  <component name="masterDetails">
-    <states>
-      <state key="ArtifactsStructureConfigurable.UI">
-        <settings>
-          <artifact-editor />
-          <splitter-proportions>
-            <option name="proportions">
-              <list>
-                <option value="0.2" />
-              </list>
-            </option>
-          </splitter-proportions>
-        </settings>
-      </state>
-      <state key="FacetStructureConfigurable.UI">
-        <settings>
-          <splitter-proportions>
-            <option name="proportions">
-              <list>
-                <option value="0.2" />
-              </list>
-            </option>
-          </splitter-proportions>
-        </settings>
-      </state>
-      <state key="GlobalLibrariesConfigurable.UI">
-        <settings>
-          <last-edited>ast (v2.4.0, rbenv: 2.6.2) [gem]</last-edited>
-          <splitter-proportions>
-            <option name="proportions">
-              <list>
-                <option value="0.2" />
-              </list>
-            </option>
-          </splitter-proportions>
-        </settings>
-      </state>
-      <state key="JdkListConfigurable.UI">
-        <settings>
-          <last-edited>12</last-edited>
-          <splitter-proportions>
-            <option name="proportions">
-              <list>
-                <option value="0.2" />
-              </list>
-            </option>
-          </splitter-proportions>
-        </settings>
-      </state>
-      <state key="ModuleStructureConfigurable.UI">
-        <settings>
-          <last-edited>OneDarkMonokai</last-edited>
-          <splitter-proportions>
-            <option name="proportions">
-              <list>
-                <option value="0.2" />
-                <option value="0.6" />
-              </list>
-            </option>
-          </splitter-proportions>
-        </settings>
-      </state>
-      <state key="ProjectLibrariesConfigurable.UI">
-        <settings>
-          <splitter-proportions>
-            <option name="proportions">
-              <list>
-                <option value="0.2" />
-              </list>
-            </option>
-          </splitter-proportions>
-        </settings>
-      </state>
-      <state key="ScopeChooserConfigurable.UI">
-        <settings>
-          <splitter-proportions>
-            <option name="proportions">
-              <list>
-                <option value="0.2" />
-              </list>
-            </option>
-          </splitter-proportions>
-        </settings>
-      </state>
-    </states>
   </component>
 </project>

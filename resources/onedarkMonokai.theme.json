@@ -4,10 +4,10 @@
   "author": "keyvchan",
   "editorScheme": "/Monokai.xml",
   "ui": {
-    "EditorTabs.selectedBackground": "#131C28",
     "*": {
       "background": "#131C28",
       "foreground": "#FFFFFF",
+      "infoForeground": "#6D6A80",
       "selectionBackground": "#252E3B",
       "selectionForeground": "#EAEAEA",
       "selectionInactiveBackground": "#252E3B",
@@ -15,9 +15,61 @@
       "disabledBackground": "#3f3571",
       "inactiveBackground": "#131C28",
       "errorForeground": "#ebf1f2",
-      "disabledText": "#adadad"
+      "disabledText": "#adadad",
+      "EditorPane.background  ": "#131C28"
     },
-    "TitlePane.background": "#192433",
-    "TitledBorder.titleColor": "#192433"
+    "ActionButton": {
+      "hoverBackground": "#252e3b",
+      "hoverBorderColor": "#252e3b",
+      "pressedBackground": "#252e3b",
+      "pressedBorderColor": "#252e3b"
+    },
+    "Button": {
+      "foreground": "#D0D0D9",
+      "startBackground": "#122545",
+      "endBackground": "#122545",
+      "startBorderColor": "#0d2b43",
+      "endBorderColor": "#0d2b34",
+      "focusedBorderColor": "#0e4460",
+      "shadowColor": "#122545",
+      "default": {
+        "startBackground": "#151f3e",
+        "endBackground": "#151f3e",
+        "startBorderColor": "#163370",
+        "endBorderColor": "#163370",
+        "shadowColor": "#27282B",
+        "focusColor": "#0e1b34"
+      }
+    },
+    "ComboBox": {
+      "nonEditableBackground": "#1e2333",
+      "background": "#131c28",
+      "ArrowButton": {
+        "iconColor": "#000000",
+        "disabledIconColor": "#162434",
+        "nonEditableBackground": "#192434"
+      }
+    },
+    "Notification": {
+      "background": "#192434",
+      "borderColor": "#142837",
+      "errorForeground": "#D0D0D9",
+      "errorBackground": "#4d232e",
+      "errorBorderColor": "#802e44",
+      "MoreButton.innerBorderColor": "#1a1721",
+      "ToolWindow": {
+        "informativeForeground": "#D0D0D9",
+        "informativeBackground": "#2e4280",
+        "informativeBorderColor": "#17254d",
+        "warningForeground": "#D0D0D9",
+        "warningBackground": "#735822",
+        "warningBorderColor": "#403013",
+        "errorForeground": "#D0D0D9",
+        "errorBackground": "#802d43",
+        "errorBorderColor": "#4d1c2b"
+      },
+      "TitlePane.background": "#192433",
+      "TitledBorder.titleColor": "#192433"
+    }
   }
 }

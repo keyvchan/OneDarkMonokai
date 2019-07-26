@@ -1,13 +1,13 @@
 <idea-plugin>
     <id>design.verybeautiful.onedarkmonokai</id>
     <name>OneDarkMonokai</name>
-    <version>0.1.4</version>
+    <version>0.1.5</version>
     <vendor email="keyvchan@gmail.com">keyvchan</vendor>
 
     <description>
         <![CDATA[
 
-        This theme is combination of onedark theme and monokai. Inspire by <a href="https://github.com/AshPowell/monokai-one-dark-vivid">my favorite theme for vscode</a>
+        This theme is combination of onedark theme and monokai color scheme. Inspire by <a href="https://github.com/AshPowell/monokai-one-dark-vivid">monokai-one-dark-vivid</a> from vscode.
         <br/><br/>
 
         To install:
@@ -22,7 +22,7 @@
     </description>
 
     <change-notes>
-        Almost full functional, still need improve. I will keep going. Fixed go syntax highlights.
+        Change the color of popup background and documentation popup. Also adapted the color of button.
 
     </change-notes>
 
