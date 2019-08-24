@@ -1,11 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="f8ed6764-fcf4-4cb4-8db8-bbb8d3399b47" name="Default Changelist" comment="Change color for popup background and documentation background. &#10;Also change the">
+    <list default="true" id="f8ed6764-fcf4-4cb4-8db8-bbb8d3399b47" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/OneDarkMonokai/OneDarkMonokai-v0-1-4.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/resources/META-INF/plugin.xml" beforeDir="false" afterPath="$PROJECT_DIR$/resources/META-INF/plugin.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/resources/Monokai.xml" beforeDir="false" afterPath="$PROJECT_DIR$/resources/Monokai.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/resources/onedarkMonokai.theme.json" beforeDir="false" afterPath="$PROJECT_DIR$/resources/onedarkMonokai.theme.json" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -55,7 +52,8 @@
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.2" />
-    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
+    <property name="settings.editor.selected.configurable" value="configurable.group.editor" />
+    <property name="show.migrate.to.gradle.popup" value="false" />
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
@@ -165,8 +163,30 @@
       <workItem from="1564121894772" duration="8000" />
       <workItem from="1564121923590" duration="12000" />
       <workItem from="1564121951139" duration="16000" />
-      <workItem from="1564121976924" duration="485000" />
+      <workItem from="1564121976924" duration="679000" />
+      <workItem from="1564187895914" duration="198000" />
+      <workItem from="1564541554485" duration="202000" />
+      <workItem from="1565054105510" duration="155000" />
+      <workItem from="1565054274639" duration="53000" />
+      <workItem from="1565054341673" duration="468000" />
+      <workItem from="1565055513373" duration="129000" />
+      <workItem from="1566641565471" duration="1020000" />
     </task>
+    <task id="LOCAL-00001" summary="Change color for popup background and documentation background. &#10;Also change the color of button.">
+      <created>1564122504585</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1564122504585</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Change color for popup background and documentation background. &#10;Also change the color of button.">
+      <created>1564122534491</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1564122534491</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -184,5 +204,9 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Change color for popup background and documentation background. &#10;Also change the color of button." />
+    <option name="LAST_COMMIT_MESSAGE" value="Change color for popup background and documentation background. &#10;Also change the color of button." />
   </component>
 </project>

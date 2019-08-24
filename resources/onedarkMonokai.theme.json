@@ -50,6 +50,11 @@
         "nonEditableBackground": "#192434"
       }
     },
+    "ProgressBar": {
+      "progressColor": "#3062bb",
+      "indeterminateStartColor": "#0f2ebb",
+      "indeterminateEndColor": "#3062bb"
+    },
     "Notification": {
       "background": "#192434",
       "borderColor": "#142837",
