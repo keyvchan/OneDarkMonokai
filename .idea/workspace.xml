@@ -3,7 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="f8ed6764-fcf4-4cb4-8db8-bbb8d3399b47" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/resources/onedarkMonokai.theme.json" beforeDir="false" afterPath="$PROJECT_DIR$/resources/onedarkMonokai.theme.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/META-INF/plugin.xml" beforeDir="false" afterPath="$PROJECT_DIR$/resources/META-INF/plugin.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -49,10 +49,10 @@
     <property name="aspect.path.notification.shown" value="true" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
-    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.last.edited" value="SDKs" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.2" />
-    <property name="settings.editor.selected.configurable" value="configurable.group.editor" />
+    <property name="settings.editor.selected.configurable" value="dart.settings" />
     <property name="show.migrate.to.gradle.popup" value="false" />
   </component>
   <component name="RecentsManager">
@@ -170,7 +170,10 @@
       <workItem from="1565054274639" duration="53000" />
       <workItem from="1565054341673" duration="468000" />
       <workItem from="1565055513373" duration="129000" />
-      <workItem from="1566641565471" duration="1020000" />
+      <workItem from="1566641565471" duration="1593000" />
+      <workItem from="1566648553763" duration="211000" />
+      <workItem from="1566955454711" duration="571000" />
+      <workItem from="1566956048443" duration="186000" />
     </task>
     <task id="LOCAL-00001" summary="Change color for popup background and documentation background. &#10;Also change the color of button.">
       <created>1564122504585</created>
@@ -186,7 +189,14 @@
       <option name="project" value="LOCAL" />
       <updated>1564122534491</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="feature: Change the color of progressbar.">
+      <created>1566642803622</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1566642803622</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -207,6 +217,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Change color for popup background and documentation background. &#10;Also change the color of button." />
-    <option name="LAST_COMMIT_MESSAGE" value="Change color for popup background and documentation background. &#10;Also change the color of button." />
+    <MESSAGE value="feature: Change the color of progressbar." />
+    <option name="LAST_COMMIT_MESSAGE" value="feature: Change the color of progressbar." />
   </component>
 </project>
