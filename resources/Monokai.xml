@@ -28,6 +28,12 @@
         <option name="BACKGROUND" value="f92672" />
       </value>
     </option>
+    <option name="BASH.HERE_DOC">
+      <value>
+        <option name="FOREGROUND" value="8f908a" />
+        <option name="FONT_TYPE" value="2" />
+      </value>
+    </option>
     <option name="BREAKPOINT_ATTRIBUTES">
       <value>
         <option name="BACKGROUND" value="743d3d" />
@@ -529,7 +535,7 @@
     </option>
     <option name="DEFAULT_STRING">
       <value>
-        <option name="FOREGROUND" value="e6db74" />
+        <option name="FOREGROUND" value="ffff43" />
       </value>
     </option>
     <option name="DEFAULT_TEMPLATE_LANGUAGE_COLOR" baseAttributes="TEXT" />
@@ -669,6 +675,11 @@
         <option name="FOREGROUND" value="66d9ef" />
       </value>
     </option>
+    <option name="GO_BUILTIN_TYPE_REFERENCE">
+      <value>
+        <option name="FOREGROUND" value="f92672" />
+      </value>
+    </option>
     <option name="GO_BUILTIN_VARIABLE">
       <value>
         <option name="FOREGROUND" value="f8f8f2" />
@@ -765,12 +776,7 @@
         <option name="FOREGROUND" value="a6e22e" />
       </value>
     </option>
-    <option name="HTML_ATTRIBUTE_VALUE">
-      <value>
-        <option name="FOREGROUND" value="e6db74" />
-        <option name="FONT_TYPE" value="1" />
-      </value>
-    </option>
+    <option name="HTML_ATTRIBUTE_VALUE" baseAttributes="DEFAULT_STRING" />
     <option name="HTML_COMMENT">
       <value>
         <option name="FOREGROUND" value="6d7187" />
@@ -800,6 +806,23 @@
       <value>
         <option name="BACKGROUND" value="3c3c57" />
         <option name="ERROR_STRIPE_COLOR" value="ccccff" />
+      </value>
+    </option>
+    <option name="IGNORE.HEADER">
+      <value>
+        <option name="FOREGROUND" value="8c8c8c" />
+        <option name="FONT_TYPE" value="1" />
+      </value>
+    </option>
+    <option name="IGNORE.SECTION">
+      <value>
+        <option name="FOREGROUND" value="8c8c8c" />
+      </value>
+    </option>
+    <option name="IGNORE.SYNTAX">
+      <value>
+        <option name="FOREGROUND" value="acacac" />
+        <option name="FONT_TYPE" value="1" />
       </value>
     </option>
     <option name="IMPLICIT_ANONYMOUS_CLASS_PARAMETER_ATTRIBUTES">
@@ -898,6 +921,11 @@
         <option name="FOREGROUND" value="ae81ff" />
       </value>
     </option>
+    <option name="JS.GLOBAL_FUNCTION">
+      <value>
+        <option name="FOREGROUND" value="66d9ef" />
+      </value>
+    </option>
     <option name="JS.GLOBAL_VARIABLE">
       <value>
         <option name="FOREGROUND" value="f8f8f2" />
@@ -906,7 +934,7 @@
     </option>
     <option name="JS.INSTANCE_MEMBER_FUNCTION">
       <value>
-        <option name="FOREGROUND" value="a6e22e" />
+        <option name="FOREGROUND" value="66d9ef" />
       </value>
     </option>
     <option name="JS.LOCAL_VARIABLE">
@@ -1647,11 +1675,6 @@
         <option name="FOREGROUND" value="a6e22e" />
       </value>
     </option>
-    <option name="XML_ATTRIBUTE_VALUE">
-      <value>
-        <option name="FOREGROUND" value="e6db74" />
-      </value>
-    </option>
     <option name="XML_ENTITY_REFERENCE">
       <value>
         <option name="FOREGROUND" value="ae81ff" />
@@ -1680,7 +1703,7 @@
     </option>
     <option name="YAML_SCALAR_DSTRING">
       <value>
-        <option name="FOREGROUND" value="e6db74" />
+        <option name="FOREGROUND" value="ffff43" />
       </value>
     </option>
     <option name="YAML_SCALAR_KEY">
@@ -1690,17 +1713,13 @@
     </option>
     <option name="YAML_SCALAR_LIST">
       <value>
-        <option name="FOREGROUND" value="e6db74" />
-      </value>
-    </option>
-    <option name="YAML_SCALAR_STRING">
-      <value>
-        <option name="FOREGROUND" value="e6db74" />
+        <option name="FOREGROUND" value="ffff43" />
+        <option name="BACKGROUND" value="192434" />
       </value>
     </option>
     <option name="YAML_SCALAR_VALUE">
       <value>
-        <option name="FOREGROUND" value="e6db74" />
+        <option name="FOREGROUND" value="ffff43" />
       </value>
     </option>
     <option name="YAML_SIGN">
@@ -1710,7 +1729,7 @@
     </option>
     <option name="YAML_TEXT">
       <value>
-        <option name="FOREGROUND" value="e6db74" />
+        <option name="FOREGROUND" value="ffff43" />
       </value>
     </option>
   </attributes>
