@@ -2,9 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="f8ed6764-fcf4-4cb4-8db8-bbb8d3399b47" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/resources/onedarkMonokai.theme.json" beforeDir="false" afterPath="$PROJECT_DIR$/resources/onedarkMonokai.theme.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/META-INF/plugin.xml" beforeDir="false" afterPath="$PROJECT_DIR$/resources/META-INF/plugin.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -48,6 +47,7 @@
   <component name="ProjectId" id="1OSopgcRRu58D67REKtq4fPXhjH" />
   <component name="PropertiesComponent">
     <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="GO_FMT" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
@@ -189,7 +189,7 @@
       <workItem from="1567468929579" duration="7000" />
       <workItem from="1567497856589" duration="62000" />
       <workItem from="1567497922650" duration="236000" />
-      <workItem from="1567498161814" duration="881000" />
+      <workItem from="1567498161814" duration="1228000" />
     </task>
     <task id="LOCAL-00001" summary="Change color for popup background and documentation background. &#10;Also change the color of button.">
       <created>1564122504585</created>
@@ -212,7 +212,14 @@
       <option name="project" value="LOCAL" />
       <updated>1566642803622</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="[CHORE]: Adjust table color and combobox border.">
+      <created>1567499250053</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1567499250053</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -234,6 +241,7 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Change color for popup background and documentation background. &#10;Also change the color of button." />
     <MESSAGE value="feature: Change the color of progressbar." />
-    <option name="LAST_COMMIT_MESSAGE" value="feature: Change the color of progressbar." />
+    <MESSAGE value="[CHORE]: Adjust table color and combobox border." />
+    <option name="LAST_COMMIT_MESSAGE" value="[CHORE]: Adjust table color and combobox border." />
   </component>
 </project>
