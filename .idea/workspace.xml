@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="f8ed6764-fcf4-4cb4-8db8-bbb8d3399b47" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/resources/onedarkMonokai.theme.json" beforeDir="false" afterPath="$PROJECT_DIR$/resources/onedarkMonokai.theme.json" afterDir="false" />
     </list>
@@ -57,7 +58,7 @@
     <property name="project.structure.last.edited" value="SDKs" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.2" />
-    <property name="settings.editor.selected.configurable" value="com.maddyhome.idea.vim.ui.VimEmulationConfigurable" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
     <property name="show.migrate.to.gradle.popup" value="false" />
   </component>
   <component name="RecentsManager">
@@ -184,6 +185,11 @@
       <workItem from="1567332900509" duration="1260000" />
       <workItem from="1567334340311" duration="26000" />
       <workItem from="1567334377591" duration="1263000" />
+      <workItem from="1567468782490" duration="122000" />
+      <workItem from="1567468929579" duration="7000" />
+      <workItem from="1567497856589" duration="62000" />
+      <workItem from="1567497922650" duration="236000" />
+      <workItem from="1567498161814" duration="881000" />
     </task>
     <task id="LOCAL-00001" summary="Change color for popup background and documentation background. &#10;Also change the color of button.">
       <created>1564122504585</created>

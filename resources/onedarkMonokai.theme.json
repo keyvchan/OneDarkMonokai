@@ -41,7 +41,7 @@
       }
     },
     "ComboBox": {
-      "nonEditableBackground": "#1e2333",
+      "nonEditableBackground": "#192434",
       "background": "#131c28",
       "ArrowButton": {
         "iconColor": "#000000",
@@ -96,7 +96,44 @@
       "indeterminateStartColor": "#0f2ebb",
       "indeterminateEndColor": "#3062bb"
     },
+    "Table": {
+      "stripeColor": "#192434",
+      "lightSelectionForeground": "#FFFFFF",
+      "lightSelectionInactiveForeground": "#FFFFFF",
+      "lightSelectionBackground": "#000066",
+      "lightSelectionInactiveBackground": "#EAEAEA"
+    },
     "TitlePane.background": "#192433",
     "TitledBorder.titleColor": "#192433"
+  },
+  "icons": {
+    "ColorPalette": {
+      "Actions.Grey": "#b7b7b7",
+      "Actions.Red": "#FF3633",
+      "Actions.Yellow": "#FFD333",
+      "Actions.Green": "#00E61F",
+      "Actions.Blue": "#00EAFF",
+      "Actions.GreyInline.Dark": "#FFFFFFFF",
+      "Objects.Grey": "#b7b7b7",
+      "Objects.RedStatus": "#FF4340FF",
+      "Objects.Red": "#FF4340FF",
+      "Objects.Pink": "#FF8FA2FF",
+      "Objects.Yellow": "#FFD333FF",
+      "Objects.Green": "#00E61FFF",
+      "Objects.Blue": "#00EAFFFF",
+      "Objects.Purple": "#A880FFFF",
+      "Objects.BlackText": "#000000FF",
+      "Objects.YellowDark": "#FFD333FF",
+      "Objects.GreenAndroid": "#00E61FFF",
+      "Checkbox.Background.Default.Dark": "#131c28",
+      "Checkbox.Border.Default.Dark": "#d1d1d1",
+      "Checkbox.Foreground.Selected.Dark": "#d1d1d1",
+      "Checkbox.Focus.Wide.Dark": "#3d6085",
+      "Checkbox.Focus.Thin.Default.Dark": "#3d6085",
+      "Checkbox.Focus.Thin.Selected.Dark": "#3d6085",
+      "Checkbox.Background.Disabled.Dark": "#000000",
+      "Checkbox.Border.Disabled.Dark": "#6D6A80",
+      "Checkbox.Foreground.Disabled.Dark": "#6D6A80"
+    }
   }
 }
