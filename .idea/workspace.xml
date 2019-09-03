@@ -1,10 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="f8ed6764-fcf4-4cb4-8db8-bbb8d3399b47" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/resources/META-INF/plugin.xml" beforeDir="false" afterPath="$PROJECT_DIR$/resources/META-INF/plugin.xml" afterDir="false" />
-    </list>
+    <list default="true" id="f8ed6764-fcf4-4cb4-8db8-bbb8d3399b47" name="Default Changelist" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -29,6 +26,12 @@
     </option>
   </component>
   <component name="Git.Settings">
+    <option name="PUSH_TAGS">
+      <GitPushTagMode>
+        <option name="argument" value="--tags" />
+        <option name="title" value="All" />
+      </GitPushTagMode>
+    </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="LogFilters">
@@ -189,7 +192,7 @@
       <workItem from="1567468929579" duration="7000" />
       <workItem from="1567497856589" duration="62000" />
       <workItem from="1567497922650" duration="236000" />
-      <workItem from="1567498161814" duration="1228000" />
+      <workItem from="1567498161814" duration="1436000" />
     </task>
     <task id="LOCAL-00001" summary="Change color for popup background and documentation background. &#10;Also change the color of button.">
       <created>1564122504585</created>
@@ -219,7 +222,14 @@
       <option name="project" value="LOCAL" />
       <updated>1567499250053</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="[RELEASE]: Bump version to v0.1.7.">
+      <created>1567499544120</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1567499544120</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -242,6 +252,7 @@
     <MESSAGE value="Change color for popup background and documentation background. &#10;Also change the color of button." />
     <MESSAGE value="feature: Change the color of progressbar." />
     <MESSAGE value="[CHORE]: Adjust table color and combobox border." />
-    <option name="LAST_COMMIT_MESSAGE" value="[CHORE]: Adjust table color and combobox border." />
+    <MESSAGE value="[RELEASE]: Bump version to v0.1.7." />
+    <option name="LAST_COMMIT_MESSAGE" value="[RELEASE]: Bump version to v0.1.7." />
   </component>
 </project>
