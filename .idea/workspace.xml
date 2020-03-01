@@ -1,8 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="f8ed6764-fcf4-4cb4-8db8-bbb8d3399b47" name="Default Changelist" comment="" />
-    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <list default="true" id="f8ed6764-fcf4-4cb4-8db8-bbb8d3399b47" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/META-INF/plugin.xml" beforeDir="false" afterPath="$PROJECT_DIR$/resources/META-INF/plugin.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/onedarkMonokai.theme.json" beforeDir="false" afterPath="$PROJECT_DIR$/resources/onedarkMonokai.theme.json" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -13,9 +17,6 @@
   </component>
   <component name="DefaultGradleProjectSettings">
     <option name="isMigrated" value="true" />
-  </component>
-  <component name="FavoritesManager">
-    <favorites_list name="OneDarkMonokai" />
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -48,6 +49,10 @@
     <option name="version" value="1" />
   </component>
   <component name="ProjectId" id="1OSopgcRRu58D67REKtq4fPXhjH" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
   <component name="PropertiesComponent">
     <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="GO_FMT" value="true" />
@@ -58,10 +63,10 @@
     <property name="go.import.settings.migrated" value="true" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
-    <property name="project.structure.last.edited" value="SDKs" />
-    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
-    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+    <property name="settings.editor.selected.configurable" value="reference.settingsdialog.IDE.editor.colors" />
     <property name="show.migrate.to.gradle.popup" value="false" />
   </component>
   <component name="RecentsManager">
@@ -71,18 +76,6 @@
       <recent name="$PROJECT_DIR$/resources" />
       <recent name="$PROJECT_DIR$/onedarkmonokai/resources" />
     </key>
-  </component>
-  <component name="RunDashboard">
-    <option name="ruleStates">
-      <list>
-        <RuleState>
-          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
-        </RuleState>
-        <RuleState>
-          <option name="name" value="StatusDashboardGroupingRule" />
-        </RuleState>
-      </list>
-    </option>
   </component>
   <component name="RunManager" selected="JAR Application.OneDarkMonokai.jar">
     <configuration name="OneDarkMonokai.jar" type="JarApplication">
@@ -193,6 +186,9 @@
       <workItem from="1567497856589" duration="62000" />
       <workItem from="1567497922650" duration="236000" />
       <workItem from="1567498161814" duration="1436000" />
+      <workItem from="1580691944626" duration="32000" />
+      <workItem from="1580691989927" duration="1017000" />
+      <workItem from="1583027031655" duration="1657000" />
     </task>
     <task id="LOCAL-00001" summary="Change color for popup background and documentation background. &#10;Also change the color of button.">
       <created>1564122504585</created>
@@ -233,20 +229,19 @@
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
-    <option name="version" value="1" />
+    <option name="version" value="2" />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
     <option name="TAB_STATES">
       <map>
         <entry key="MAIN">
           <value>
-            <State>
-              <option name="COLUMN_ORDER" />
-            </State>
+            <State />
           </value>
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Change color for popup background and documentation background. &#10;Also change the color of button." />
@@ -254,5 +249,23 @@
     <MESSAGE value="[CHORE]: Adjust table color and combobox border." />
     <MESSAGE value="[RELEASE]: Bump version to v0.1.7." />
     <option name="LAST_COMMIT_MESSAGE" value="[RELEASE]: Bump version to v0.1.7." />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="560" y="259" key="#Plugins" timestamp="1580692073236">
+      <screen x="0" y="23" width="1920" height="1177" />
+    </state>
+    <state x="560" y="259" key="#Plugins/0.23.1920.1177@0.23.1920.1177" timestamp="1580692073236" />
+    <state x="678" y="307" key="#com.intellij.ide.util.frameworkSupport.AddFrameworkSupportDialog" timestamp="1580692670078">
+      <screen x="0" y="23" width="1920" height="1177" />
+    </state>
+    <state x="678" y="307" key="#com.intellij.ide.util.frameworkSupport.AddFrameworkSupportDialog/0.23.1920.1177@0.23.1920.1177" timestamp="1580692670078" />
+    <state x="560" y="300" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog" timestamp="1580691975434">
+      <screen x="0" y="23" width="1920" height="1177" />
+    </state>
+    <state x="560" y="300" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog/0.23.1920.1177@0.23.1920.1177" timestamp="1580691975434" />
+    <state x="461" y="250" key="SettingsEditor" timestamp="1583028018107">
+      <screen x="0" y="23" width="1920" height="1177" />
+    </state>
+    <state x="461" y="250" key="SettingsEditor/0.23.1920.1177@0.23.1920.1177" timestamp="1583028018107" />
   </component>
 </project>

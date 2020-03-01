@@ -1,7 +1,7 @@
 <idea-plugin>
     <id>design.verybeautiful.onedarkmonokai</id>
     <name>OneDarkMonokai</name>
-    <version>0.1.7</version>
+    <version>0.1.8</version>
     <vendor email="keyvchan@gmail.com">keyvchan</vendor>
 
     <description>
@@ -12,9 +12,10 @@
 
         To install:
         <ul>
-            <li>Go to <i>Settings (Preferences) | Plugins</i>, find the theme plugin and install it</li>
+            <li>Go to <b>Settings (Preferences) | Plugins</b>, find the theme plugin and install it</li>
             <li>Restart IDE</li>
-            <li>Go to <i>Settings (Preferences) | Appearance & Behavior | Appearance</i> and see the <i>Theme</i> dropdown</li>
+            <li>Go to <b>Settings (Preferences) | Appearance & Behavior | Appearance</b> and see the <b>Theme</b> dropdown</li>
+            <li>Go to <b>Settings (Preferences) | Editor | Color Scheme</b> and select <b>Monokai Adapted</b> in the <b>Scheme</b> dropdown</li>
         </ul>
         <br/>
 
@@ -22,7 +23,7 @@
     </description>
 
     <change-notes>
-        Adjust table color, combobox border, "Editor tab background" and color of plugin page.
+        Fix color of disabled background in 2020.1 EAP release.
 
     </change-notes>
 
